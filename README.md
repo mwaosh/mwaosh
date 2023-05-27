@@ -1,4 +1,10 @@
 ### Hi there 👋
+My name is Jefferson Waithaka currently working towards becoming a Security Analyst.
+Currently I am learning the Google Cybersecurity Foundation course and the Certified Cybersecurity Technician Certificate by EC-Council.
+Previously I have worked in Help Desk then System Adminsitrator to date both in the Financial Services sector.\
+Please connect on
+Twitter: @waithamwaura
+Likendin: mwaura-waithaka
 
 <!--
 **mwaosh/mwaosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
