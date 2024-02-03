@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Jefferson Waithaka currently working towards becoming a Security Analyst.
-Currently I am learning the Google Cybersecurity Professional course and the Certified Cybersecurity Technician (CCT) by EC-Council to add to my portfolio of other certifications such as Certified in Cybersecurity (ISC)2 and Azure certifications.
+
 Previously I have worked in Help Desk then System Adminsitrator to date both in the Financial Services sector.\
 
 Please connect on:
