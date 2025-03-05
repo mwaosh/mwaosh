@@ -1,7 +1,7 @@
 ### Hi there 👋
-My name is Jefferson Waithaka currently working towards becoming a Security Analyst.
+My name is Jefferson Waithaka I talk all things Infrastructure.
 
-Previously I have worked in Help Desk then System Adminsitrator to date both in the Financial Services sector.\
+My skills encomapss networking, datacenter, system and server administration, multi-cloud, infosec, devops.\
 
 Please connect on:
 
